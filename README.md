@@ -8,7 +8,7 @@ It is based on Pillow for Python.
 ## Installation
 Install via pip:
 
-    pip install os-image-handler
+    pip install os-image-handler 
     
 ## Usage Example       
     import os_image_handler.ImageHandler as ih
