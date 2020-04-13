@@ -1,4 +1,4 @@
-import os_image_handler.ImageHandler as ih
+import os_image_handler.image_handler as ih
 
 # create a background canvas with a background gradient color
 background = ih.create_new_image(1024, 500, None, '#FFC1B', '#FF881B')

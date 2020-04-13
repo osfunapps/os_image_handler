@@ -11,7 +11,7 @@ Install via pip:
     pip install os-image-handler 
     
 ## Usage Example       
-    from os_image_handler import ImageHandler as ih
+    from os_image_handler import image_handler as ih
     
     # create a background canvas with a background gradient color
     background = ih.create_new_image(1024, 500, None, '#FFC1B', '#FF881B')

@@ -1,1 +1,1 @@
-import os_image_handler.ImageHandler
+import os_image_handler.image_handler
