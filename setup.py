@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='os_image_handler',
     packages=['os_image_handler'],
-    version='1.00',
+    version='1.02',
     license='MIT',
     description='This script contains fundamental image manipulation actions.',
     author='Oz Shabat',
@@ -23,5 +23,6 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.9',
     ],
 )

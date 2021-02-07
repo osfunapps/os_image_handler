@@ -1,6 +1,6 @@
 from PIL import Image, ImageDraw
 from PIL import ImageFont
-from os_tools import tools as tools
+from os_tools import tools
 
 
 def load_img(img_path):
